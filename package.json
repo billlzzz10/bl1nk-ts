@@ -21,7 +21,7 @@
   "author": "Ashval",
   "license": "MIT",
   "dependencies": {
-    "@google/genai": "^1.8.0",
+    "@google/genai": "^1.33.0",
     "js-yaml": "^4.1.0",
     "marked": "^16.0.0",
     "react": "^19.1.0",
